@@ -1,6 +1,6 @@
 {
   "name": "gofile-downloader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "gofile-downloader is a lightweight Node.js module to easily retrieve download links for files hosted on Gofile.io",
   "keywords": [
     "gofile",
